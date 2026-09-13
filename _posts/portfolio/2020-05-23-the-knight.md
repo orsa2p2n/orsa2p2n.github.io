@@ -71,4 +71,4 @@ _To the left, the taunt in Rivals of Aether. To the right, the checkpoint in Hol
 
 - [**Fabien Calendrier**](https://fabiencalendrier.fr/) - Game Design, Additional Programming
 - [**Danilo Ferme**](https://lamenor.artstation.com/) - Programming
-- **Orso Philipponnat** - Pixel Art, Animation, Programming
+- **Orsa Philipponnat** - Pixel Art, Animation, Programming

@@ -20,7 +20,7 @@ tags: [C#, Game Modding, Programming, Risk of Rain 2]
 ## Links
 
 - <i class="fa-solid fa-bolt"></i> - Downloadable on [Thunderstore](https://thunderstore.io/package/SwagWizards/AllyNames/).
-- <i class="fa-brands fa-github"></i> - Source code on [Github](https://github.com/Orso2p2n/ror2-drones-names).
+- <i class="fa-brands fa-github"></i> - Source code on [Github](https://github.com/Orsa2p2n/ror2-drones-names).
 
 ## Screenshots
 
@@ -29,5 +29,5 @@ _Screenshots of the mod being used in-game._
 
 ## Team
 
-- **Orso Philipponnat** - Programming
+- **Orsa Philipponnat** - Programming
 - [**SaltyFinalBoss**](https://twitter.com/saltyfinalboss) - Names, Icon

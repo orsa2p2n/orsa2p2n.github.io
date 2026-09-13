@@ -25,7 +25,7 @@ It is based on [Motion Twin's `multifile` branch](https://github.com/motion-twin
 
 ## Links
 
-- <i class="fa-brands fa-github"></i> - Download and source code on [Github](https://github.com/Orso2p2n/castle-multifile).
+- <i class="fa-brands fa-github"></i> - Download and source code on [Github](https://github.com/Orsa2p2n/castle-multifile).
 
 ## Screenshots
 

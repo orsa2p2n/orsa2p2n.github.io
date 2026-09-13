@@ -45,5 +45,5 @@ Some aspects of this AI include:
 
 ## Team
 
-- **Orso Philipponnat** - Pixel Art, Animation, Programming
+- **Orsa Philipponnat** - Pixel Art, Animation, Programming
 - **Abigaëlle Batt** - Additional Pixel Art

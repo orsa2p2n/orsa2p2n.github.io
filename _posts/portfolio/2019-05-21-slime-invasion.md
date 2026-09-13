@@ -21,7 +21,7 @@ We had to design and develop a game in the "Tetris-like" genre in Construct 2.
 
 ## Links
 
-- <i class="fa-brands fa-itch-io"></i> - Playable on [Itch.io](https://orsos.itch.io/slime-invasion).
+- <i class="fa-brands fa-itch-io"></i> - Playable on [Itch.io](https://orsadotexe.itch.io/slime-invasion).
 
 ## Gameplay
 

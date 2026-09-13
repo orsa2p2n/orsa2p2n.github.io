@@ -19,7 +19,7 @@ tags: [C#, Godot, Programming, Tool Development]
 
 ## Links
 
-- <i class="fa-brands fa-github"></i> - Download and source code on [Github](https://github.com/Orso2p2n/four-souls-card-maker).
+- <i class="fa-brands fa-github"></i> - Download and source code on [Github](https://github.com/Orsa2p2n/four-souls-card-maker).
 
 ## Screenshots
 

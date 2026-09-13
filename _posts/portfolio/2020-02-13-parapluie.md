@@ -55,5 +55,5 @@ The game can be found on [indreams](https://indreams.me/dream/mmgqNMBuZZV), the 
 ## Team
 
 The Game Jam was in teams of two, and while we both experimented with everything, we decided to focus on our strong points and divided the work as follow:
-- **Orso Philipponnat** - Programming, Level Design, Visual Effects
+- **Orsa Philipponnat** - Programming, Level Design, Visual Effects
 - **Abigaëlle Batt** - 3D Modeling, Paint Texturing, Character Design

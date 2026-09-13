@@ -2,9 +2,7 @@ name: "Build and Deploy"
 on:
   push:
     branches:
-      - orso2p2n
       - main
-      - master
     paths-ignore:
       - .gitignore
       - README.md

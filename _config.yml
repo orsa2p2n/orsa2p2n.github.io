@@ -18,31 +18,31 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Orso # the main title
+title: Orsa # the main title
 
-tagline: Game Developer, Gameplay Programmer & Pixel Artist. # it will display as the sub-title
+tagline: Game Developer, Programmer & Pixel Artist. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Portfolio and blog of Orso Philipponnat.
+  Portfolio and blog of Orsa Philipponnat.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://orso2p2n.github.io"
+url: "https://orsa2p2n.github.io"
 
 github:
-  username: orso2p2n # change to your github username
+  username: orsa2p2n # change to your github username
 
 twitter:
-  username: orsopidou # change to your twitter username
+  username: orsapidou # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Orso Philipponnat
-  email: orsoph@gmail.com # change to your email address
+  name: Orsa Philipponnat
+  email: orsa.ph@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/orsopidou # change to your twitter homepage
-    - https://github.com/orso2p2n # change to your github homepage
+    - https://twitter.com/orsapidou # change to your twitter homepage
+    - https://github.com/orsa2p2n # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -114,7 +114,7 @@ assets:
     env: # [development|production]
 
 pwa:
-  enabled: true # the option for PWA feature
+  enabled: false # the option for PWA feature
 
 paginate: 10
 

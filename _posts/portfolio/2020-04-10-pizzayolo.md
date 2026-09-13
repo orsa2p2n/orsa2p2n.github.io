@@ -55,5 +55,5 @@ _Screenshot of the game in Tabletop Simulator._
 
 - **Abigaëlle Batt** - Illustrations
 - **[Quentin Coppola](https://www.behance.net/quentincoppola)** - Narrative Design
-- **Orso Philipponnat** - Graphic Design
+- **Orsa Philipponnat** - Graphic Design
 - **[Jules Retaud](https://julesretaud.com)** - Game Design
